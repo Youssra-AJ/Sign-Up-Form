@@ -6,7 +6,7 @@ body {
 }
 
 .background {
-    height: 850px;
+    height: 780px;
     width: 500px;
     background-image: url(/home/youssra/Downloads/eugene-golovesov-unsplash.jpg);
     position: absolute;
@@ -58,11 +58,11 @@ body {
     margin-left: 500px;   
     margin-top: 0px;
     margin-right: 0px;
-    background-color: bisque;
+    background-color: rgb(204, 250, 192);
 }
 
 .text1 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1rem;
     font-weight: 600;
     margin-left: 40px;
@@ -72,7 +72,7 @@ body {
 #form-container {
     width: 768px;
     height: 240px;
-    background-color: antiquewhite;
+    background-color: white;
     position: absolute;
     margin-left: 500px;
     margin-top: 255px;
@@ -80,7 +80,7 @@ body {
 }
 
 .text2 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1rem;
     font-weight: 600;
     margin-left: 40px;
@@ -88,7 +88,7 @@ body {
 }
 
 label {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 0.7rem;
     font-weight: 600;
     color: gray;
@@ -120,9 +120,18 @@ button {
     margin-top: 530px;
     width: 160px;
     height: 35px;
-    background-color: green;
+    background-color: rgb(84, 155, 84);
     color: white;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 900;
     border-radius: 8px;
+}
+
+.log-in {
+    position: absolute;
+    margin-left: 540px;
+    margin-top: 590px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.8rem;
+    font-weight: 600;
 }
