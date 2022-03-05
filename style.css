@@ -8,7 +8,7 @@ body {
 .background {
     height: 780px;
     width: 500px;
-    background-image: url(/home/youssra/Downloads/eugene-golovesov-unsplash.jpg);
+    background-image: url('/home/youssra/Downloads/eugene-golovesov-unsplash.jpg');
     position: absolute;
 }
 
@@ -26,7 +26,7 @@ body {
 .logo {
     height: 133px;
     width: 100px;
-    background-image: url(/home/youssra/Pictures/odin-lined.png);
+    background-image: url('/home/youssra/Pictures/odin-lined.png');
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
@@ -36,7 +36,7 @@ body {
 
 @font-face {
     font-family: "Norse-Bold";
-    src: url(/home/youssra/Downloads/Norse-Bold.woff) format("woff");
+    src: url('/home/youssra/Downloads/Norse-Bold.woff') format("woff");
 }
 
 
